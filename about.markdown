@@ -61,5 +61,5 @@ IntelliJ IDEA, Git, Jenkins, Confluence, JIRA, Bitbucket, GitHub (obviously), an
 
 ## Curriculum Vitae
 
-- [English CV (PDF)](cv/2024_en-legall_benoit.pdf)  (2024 - not up do date)
+- [English CV (PDF)](cv/2024_en-legall_benoit.pdf)  (2024 - not up to date)
 - [CV en français (PDF)](cv/2024_fr-legall_benoit.pdf)  (2024 - pas à jour)
